@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: lestallion-id-badge-holders-293
+  runtime: static
+  staticPublishPath: public
